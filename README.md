@@ -15,7 +15,7 @@
 - Git & GitHub
 
 ### 📊 GitHub Stats
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahim123&show_icons=true)
+![shiblo-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=rahim123&show_icons=true)
 
 
  
