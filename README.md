@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**shiblo-dev/shiblo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Shiblo!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I'm a Frontend Developer
+- 🔭 Interested in Open Source
+- 📫 Reach me at: shiblodev86@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap5
+- JavaScript
+- React
+- Firebase authentication
+- Git & GitHub
+
+### 📊 GitHub Stats
+![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahim123&show_icons=true)
+
+
+ 
