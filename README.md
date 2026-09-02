@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 💻 I'm a Frontend Developer
 - 🔭 Interested in Open Source
-- 📫 Reach me at: shiblodev86@email.com
+- 📫 Reach me at: shiblodev05@email.com
 
 ### 🛠️ Skills
 - HTML5, CSS3
